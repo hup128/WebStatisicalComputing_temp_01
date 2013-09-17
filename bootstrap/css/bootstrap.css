@@ -39,7 +39,10 @@
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
-
+.btn-toolbar{
+                  text-align: center;
+                }​
+                
 article,
 aside,
 details,
